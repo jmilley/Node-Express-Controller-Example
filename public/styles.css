@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(191, 220, 246);
+    font-size: 2rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 1rem;
+    list-style-type: none;
+}
+
+nav li a {
+    color: orange;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: square;
+}
