@@ -4,7 +4,7 @@ const app = express()
 const path = require("node:path")
 
 // local files
-const authorRouter = require("./routes/authorRouter")
+const authorRouter = require("./routes/authorRoute")
 const bookRouter = require("./routes/bookRouter")
 const indexRouter = require("./routes/indexRouter")
 
